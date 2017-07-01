@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyView">
+        <attr name="text" format="string" />//字体
+        <attr name="background1" format="color" />//背景1
+        <attr name="background2" format="color" />//背景2
+        <attr name="textColor" format="color" />//字体颜色
+        <attr name="textSize" format="dimension"/>//字体大小
+        <attr name="wireColor" format="color" />//线的颜色
+        <attr name="wireWidth" format="dimension" />//线的宽度
+        <attr name="max" format="float"/>//最大值
+        <attr name="min" format="float"/>//最小值
+        <attr name="proportionColor" format="color" />//百分比颜色
+        <attr name="proportionSize" format="dimension" />//百分比的大小
+        <attr name="radius" format="dimension" />//半径
+    </declare-styleable>
+
+</resources>
